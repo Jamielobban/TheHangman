@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "688425797387",
+    "project_id": "hangmannewgame",
+    "storage_bucket": "hangmannewgame.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:688425797387:android:3462d882305d130850440e",
+        "android_client_info": {
+          "package_name": "com.example.hangmannewgame"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "688425797387-pc8074jc5u2po359l4on69bkkrped1c1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBM8CfckqofIRwjhs2rAW6z7SSqBHfuHgg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "688425797387-pc8074jc5u2po359l4on69bkkrped1c1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

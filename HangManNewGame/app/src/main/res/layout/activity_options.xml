@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:scaleX="1"
+    tools:context=".OptionsActivity">
+
+    <ImageView
+        android:id="@+id/imageView4"
+        android:layout_width="413dp"
+        android:layout_height="731dp"
+        android:scaleType="fitCenter"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:srcCompat="@drawable/settingscreen" />
+
+    <ImageButton
+        android:id="@+id/notisTickBox2"
+        android:layout_width="56dp"
+        android:layout_height="59dp"
+        android:layout_marginEnd="88dp"
+        android:background="#00FFFFFF"
+        android:contentDescription="notstickooff"
+        android:scaleType="fitStart"
+        android:visibility="invisible"
+        app:layout_constraintBottom_toBottomOf="@+id/textView3"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toTopOf="@+id/textView3"
+        app:layout_constraintVertical_bias="0.607"
+        app:srcCompat="@drawable/tickbox" />
+
+    <ImageButton
+        android:id="@+id/soundTickBox2"
+        android:layout_width="57dp"
+        android:layout_height="54dp"
+        android:background="#00FFFFFF"
+        android:contentDescription="musicOff"
+        android:scaleType="fitStart"
+        android:visibility="invisible"
+        app:layout_constraintBottom_toBottomOf="@+id/textView2"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.358"
+        app:layout_constraintStart_toEndOf="@+id/textView2"
+        app:layout_constraintTop_toTopOf="@+id/textView2"
+        app:layout_constraintVertical_bias="1.0"
+        app:srcCompat="@drawable/tickbox" />
+
+    <ImageButton
+        android:id="@+id/registerOptionsButton"
+        android:layout_width="234dp"
+        android:layout_height="58dp"
+        android:layout_marginTop="20dp"
+        android:background="#00FFFFFF"
+        android:contentDescription="registration"
+        android:scaleType="fitStart"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.497"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/loginOptionsButton"
+        app:srcCompat="@drawable/registrationbox" />
+
+    <ImageButton
+        android:id="@+id/loginOptionsButton"
+        android:layout_width="234dp"
+        android:layout_height="56dp"
+        android:layout_marginTop="40dp"
+        android:background="#00FFFFFF"
+        android:contentDescription="login"
+        android:scaleType="centerInside"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.497"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textView3"
+        app:srcCompat="@drawable/login" />
+
+    <ImageButton
+        android:id="@+id/logoutButton"
+        android:layout_width="168dp"
+        android:layout_height="58dp"
+        android:layout_marginTop="32dp"
+        android:background="#00FFFFFF"
+        android:contentDescription="logout"
+        android:scaleType="centerInside"
+        app:layout_constraintBottom_toBottomOf="@+id/imageView4"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.695"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/registerOptionsButton"
+        app:layout_constraintVertical_bias="0.13"
+        app:srcCompat="@drawable/logout" />
+
+    <ImageButton
+        android:id="@+id/soundTickBox"
+        android:layout_width="57dp"
+        android:layout_height="54dp"
+        android:background="#00FFFFFF"
+        android:contentDescription="tickbox"
+        android:scaleType="fitStart"
+        app:layout_constraintBottom_toBottomOf="@+id/textView2"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.358"
+        app:layout_constraintStart_toEndOf="@+id/textView2"
+        app:layout_constraintTop_toTopOf="@+id/textView2"
+        app:layout_constraintVertical_bias="1.0"
+        app:srcCompat="@drawable/checkbox" />
+
+    <ImageButton
+        android:id="@+id/notisTickBox"
+        android:layout_width="56dp"
+        android:layout_height="59dp"
+        android:layout_marginEnd="88dp"
+        android:background="#00FFFFFF"
+        android:contentDescription="notstick"
+        android:scaleType="fitStart"
+        app:layout_constraintBottom_toBottomOf="@+id/textView3"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toTopOf="@+id/textView3"
+        app:layout_constraintVertical_bias="0.607"
+        app:srcCompat="@drawable/checkbox" />
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="228dp"
+        android:layout_height="54dp"
+        android:fontFamily="@font/riogrande"
+        android:text="SETTINGS"
+        android:textColor="#602901"
+        android:textSize="48sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.546"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="@+id/imageView4"
+        app:layout_constraintVertical_bias="0.27" />
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginEnd="76dp"
+        android:fontFamily="@font/cowboy"
+        android:text="SOUND"
+        android:textColor="#602901"
+        android:textSize="34sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.471"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textView"
+        app:layout_constraintVertical_bias="0.045" />
+
+    <TextView
+        android:id="@+id/textView3"
+        android:layout_width="175dp"
+        android:layout_height="31dp"
+        android:layout_marginTop="48dp"
+        android:fontFamily="@font/cowboy"
+        android:text="NOTIFICATIONS"
+        android:textColor="#602901"
+        android:textSize="20sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.313"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textView2" />
+
+    <ImageButton
+        android:id="@+id/backButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginEnd="24dp"
+        android:background="#00FFFFFF"
+        android:contentDescription="backButton"
+        app:layout_constraintBottom_toBottomOf="@+id/logoutButton"
+        app:layout_constraintEnd_toStartOf="@+id/logoutButton"
+        app:layout_constraintHorizontal_bias="1.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="@+id/logoutButton"
+        app:layout_constraintVertical_bias="0.277"
+        app:srcCompat="@drawable/backbutton" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>

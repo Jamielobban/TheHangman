@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:scaleX="1"
+    tools:context=".GameActivity">
+
+    <androidx.appcompat.widget.AppCompatButton
+        android:id="@+id/playButton2"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@drawable/ic_launcher_background"
+        android:fontFamily="@font/cowboy"
+        android:paddingLeft="120dp"
+        android:paddingTop="100dp"
+        android:paddingRight="120dp"
+        android:paddingBottom="100dp"
+        android:text="PLAY"
+        android:textSize="48sp"
+        android:visibility="invisible"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.47"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.49"
+        tools:ignore="DuplicateSpeakableTextCheck" />
+
+    <ImageView
+        android:id="@+id/hangmanDrawing"
+        android:layout_width="415dp"
+        android:layout_height="733dp"
+        android:scaleType="fitXY"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:srcCompat="@drawable/hangman0" />
+
+    <ImageView
+        android:id="@+id/imageView5"
+        android:layout_width="177dp"
+        android:layout_height="77dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.931"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/playerGuess1"
+        app:layout_constraintVertical_bias="0.032"
+        app:srcCompat="@drawable/backdrop" />
+
+    <TextView
+        android:id="@+id/letterUsed"
+        android:layout_width="410dp"
+        android:layout_height="57dp"
+        android:layout_marginTop="208dp"
+        android:fontFamily="@font/cowboy"
+        android:gravity="center"
+        android:text="Used letters: "
+        android:textColor="@color/black"
+        android:textSize="20sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="1.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/imageView5" />
+
+    <TextView
+        android:id="@+id/timer"
+        android:layout_width="141dp"
+        android:layout_height="45dp"
+        android:fontFamily="@font/riogrande"
+        android:text="Time Left:"
+        android:textColor="@color/black"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        app:layout_constraintBottom_toBottomOf="@+id/imageView5"
+        app:layout_constraintEnd_toEndOf="@+id/imageView5"
+        app:layout_constraintHorizontal_bias="0.766"
+        app:layout_constraintStart_toStartOf="@+id/imageView5"
+        app:layout_constraintTop_toTopOf="@+id/imageView5"
+        app:layout_constraintVertical_bias="0.583" />
+
+    <EditText
+        android:id="@+id/playerGuess1"
+        android:layout_width="223dp"
+        android:layout_height="61dp"
+        android:inputType="textNoSuggestions"
+        android:layout_marginStart="8dp"
+        android:layout_marginTop="8dp"
+        android:layout_marginEnd="8dp"
+        android:autofillHints=""
+        android:ems="10"
+        android:fontFamily="@font/cowboy"
+        android:hint="Guess"
+        android:textAlignment="center"
+        android:textAllCaps="false"
+        android:textSize="30sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.231" />
+
+    <ImageButton
+        android:id="@+id/tryButton"
+        android:layout_width="293dp"
+        android:layout_height="49dp"
+        android:background="#00FFFFFF"
+        android:contentDescription="guess"
+        android:onClick="guessTry"
+        android:scaleType="fitCenter"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/letterUsed"
+        app:layout_constraintVertical_bias="0.133"
+        app:srcCompat="@drawable/trybutton" />
+
+    <ImageButton
+        android:id="@+id/imageButton"
+        android:layout_width="112dp"
+        android:layout_height="48dp"
+        android:layout_marginTop="8dp"
+        android:layout_marginEnd="8dp"
+        android:background="#00FFFFFF"
+        android:contentDescription="pause"
+        android:scaleType="center"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:srcCompat="@drawable/backdrop" />
+
+    <TextView
+        android:id="@+id/pauseButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:fontFamily="@font/cowboy"
+        android:text="PAUSE"
+        android:textColor="#000000"
+        app:layout_constraintBottom_toBottomOf="@+id/imageButton"
+        app:layout_constraintEnd_toEndOf="@+id/imageButton"
+        app:layout_constraintStart_toStartOf="@+id/imageButton"
+        app:layout_constraintTop_toTopOf="@+id/imageButton" />
+
+    <TextView
+        android:id="@+id/toBeGuessed"
+        android:layout_width="290dp"
+        android:layout_height="60dp"
+        android:fontFamily="sans-serif"
+        android:gravity="center"
+        android:letterSpacing="0.1"
+        android:text="player"
+        android:textColor="@android:color/black"
+        android:textSize="30sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.517"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/imageView6"
+        app:layout_constraintVertical_bias="0.035" />
+
+    <ImageView
+        android:id="@+id/imageView6"
+        android:layout_width="154dp"
+        android:layout_height="50dp"
+        android:layout_marginTop="8dp"
+        android:layout_marginEnd="20dp"
+        app:layout_constraintEnd_toStartOf="@+id/imageButton"
+        app:layout_constraintTop_toTopOf="@+id/hangmanDrawing"
+        app:srcCompat="@drawable/backdrop" />
+
+    <TextView
+        android:id="@+id/scoreText"
+        android:layout_width="131dp"
+        android:layout_height="24dp"
+        android:contentDescription="scoreText"
+        android:fontFamily="@font/cowboy"
+        android:text="SCORE : 0"
+        android:textColor="#000000"
+        android:textSize="20sp"
+        app:layout_constraintBottom_toBottomOf="@+id/imageView6"
+        app:layout_constraintEnd_toEndOf="@+id/imageView6"
+        app:layout_constraintHorizontal_bias="1.0"
+        app:layout_constraintStart_toStartOf="@+id/imageView6"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.514" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>
