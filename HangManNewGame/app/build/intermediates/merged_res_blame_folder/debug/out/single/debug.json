@@ -1,0 +1,286 @@
+[
+    {
+        "merged": "C:\\Users\\jlobb\\.gradle\\daemon\\7.5\\com.example.hangmannewgame.app-merged_res-54:\\layout_activity_login.xml.flat",
+        "source": "C:\\Users\\jlobb\\.gradle\\daemon\\7.5\\com.example.hangmannewgame.app-main-56:\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\jlobb\\.gradle\\daemon\\7.5\\com.example.hangmannewgame.app-merged_res-54:\\layout_activity_splash_screen.xml.flat",
+        "source": "C:\\Users\\jlobb\\.gradle\\daemon\\7.5\\com.example.hangmannewgame.app-main-56:\\layout\\activity_splash_screen.xml"
+    },
+    {
+        "merged": "C:\\Users\\jlobb\\.gradle\\daemon\\7.5\\com.example.hangmannewgame.app-merged_res-54:\\drawable-xxhdpi_hangman4.png.flat",
+        "source": "C:\\Users\\jlobb\\.gradle\\daemon\\7.5\\com.example.hangmannewgame.app-main-56:\\drawable-xxhdpi\\hangman4.png"
+    },
+    {
+        "merged": "C:\\Users\\jlobb\\.gradle\\daemon\\7.5\\com.example.hangmannewgame.app-merged_res-54:\\layout_user_item.xml.flat",
+        "source": "C:\\Users\\jlobb\\.gradle\\daemon\\7.5\\com.example.hangmannewgame.app-main-56:\\layout\\user_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\jlobb\\.gradle\\daemon\\7.5\\com.example.hangmannewgame.app-merged_res-54:\\drawable_splashscreennew.png.flat",
+        "source": "C:\\Users\\jlobb\\.gradle\\daemon\\7.5\\com.example.hangmannewgame.app-main-56:\\drawable\\splashscreennew.png"
+    },
+    {
+        "merged": "C:\\Users\\jlobb\\.gradle\\daemon\\7.5\\com.example.hangmannewgame.app-merged_res-54:\\drawable-xxhdpi_homescreenmain.png.flat",
+        "source": "C:\\Users\\jlobb\\.gradle\\daemon\\7.5\\com.example.hangmannewgame.app-main-56:\\drawable-xxhdpi\\homescreenmain.png"
+    },
+    {
+        "merged": "C:\\Users\\jlobb\\.gradle\\daemon\\7.5\\com.example.hangmannewgame.app-merged_res-54:\\layout_activity_reward.xml.flat",
+        "source": "C:\\Users\\jlobb\\.gradle\\daemon\\7.5\\com.example.hangmannewgame.app-main-56:\\layout\\activity_reward.xml"
+    },
+    {
+        "merged": "C:\\Users\\jlobb\\.gradle\\daemon\\7.5\\com.example.hangmannewgame.app-merged_res-54:\\drawable-hdpi_ic_action_name.png.flat",
+        "source": "C:\\Users\\jlobb\\.gradle\\daemon\\7.5\\com.example.hangmannewgame.app-main-56:\\drawable-hdpi\\ic_action_name.png"
+    },
+    {
+        "merged": "C:\\Users\\jlobb\\.gradle\\daemon\\7.5\\com.example.hangmannewgame.app-merged_res-54:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\jlobb\\.gradle\\daemon\\7.5\\com.example.hangmannewgame.app-main-56:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.hangmannewgame.app-merged_res-54:/layout_activity_main.xml.flat",
+        "source": "com.example.hangmannewgame.app-main-56:/layout/activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\jlobb\\.gradle\\daemon\\7.5\\com.example.hangmannewgame.app-merged_res-54:\\drawable-xxhdpi_hangman1.png.flat",
+        "source": "C:\\Users\\jlobb\\.gradle\\daemon\\7.5\\com.example.hangmannewgame.app-main-56:\\drawable-xxhdpi\\hangman1.png"
+    },
+    {
+        "merged": "C:\\Users\\jlobb\\.gradle\\daemon\\7.5\\com.example.hangmannewgame.app-merged_res-54:\\font_riogrande.ttf.flat",
+        "source": "C:\\Users\\jlobb\\.gradle\\daemon\\7.5\\com.example.hangmannewgame.app-main-56:\\font\\riogrande.ttf"
+    },
+    {
+        "merged": "C:\\Users\\jlobb\\.gradle\\daemon\\7.5\\com.example.hangmannewgame.app-merged_res-54:\\drawable-xxhdpi_hangman3.png.flat",
+        "source": "C:\\Users\\jlobb\\.gradle\\daemon\\7.5\\com.example.hangmannewgame.app-main-56:\\drawable-xxhdpi\\hangman3.png"
+    },
+    {
+        "merged": "C:\\Users\\jlobb\\.gradle\\daemon\\7.5\\com.example.hangmannewgame.app-merged_res-54:\\menu_menu_main.xml.flat",
+        "source": "C:\\Users\\jlobb\\.gradle\\daemon\\7.5\\com.example.hangmannewgame.app-main-56:\\menu\\menu_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\jlobb\\.gradle\\daemon\\7.5\\com.example.hangmannewgame.app-merged_res-54:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\jlobb\\.gradle\\daemon\\7.5\\com.example.hangmannewgame.app-main-56:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\jlobb\\.gradle\\daemon\\7.5\\com.example.hangmannewgame.app-merged_res-54:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\jlobb\\.gradle\\daemon\\7.5\\com.example.hangmannewgame.app-main-56:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\jlobb\\.gradle\\daemon\\7.5\\com.example.hangmannewgame.app-merged_res-54:\\drawable_checkbox.png.flat",
+        "source": "C:\\Users\\jlobb\\.gradle\\daemon\\7.5\\com.example.hangmannewgame.app-main-56:\\drawable\\checkbox.png"
+    },
+    {
+        "merged": "C:\\Users\\jlobb\\.gradle\\daemon\\7.5\\com.example.hangmannewgame.app-merged_res-54:\\drawable-xxhdpi_hangman0.png.flat",
+        "source": "C:\\Users\\jlobb\\.gradle\\daemon\\7.5\\com.example.hangmannewgame.app-main-56:\\drawable-xxhdpi\\hangman0.png"
+    },
+    {
+        "merged": "C:\\Users\\jlobb\\.gradle\\daemon\\7.5\\com.example.hangmannewgame.app-merged_res-54:\\raw_menubocurt.mp3.flat",
+        "source": "C:\\Users\\jlobb\\.gradle\\daemon\\7.5\\com.example.hangmannewgame.app-main-56:\\raw\\menubocurt.mp3"
+    },
+    {
+        "merged": "C:\\Users\\jlobb\\.gradle\\daemon\\7.5\\com.example.hangmannewgame.app-merged_res-54:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\jlobb\\.gradle\\daemon\\7.5\\com.example.hangmannewgame.app-main-56:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\jlobb\\.gradle\\daemon\\7.5\\com.example.hangmannewgame.app-merged_res-54:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\jlobb\\.gradle\\daemon\\7.5\\com.example.hangmannewgame.app-main-56:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\jlobb\\.gradle\\daemon\\7.5\\com.example.hangmannewgame.app-merged_res-54:\\drawable-xxhdpi_trybutton.png.flat",
+        "source": "C:\\Users\\jlobb\\.gradle\\daemon\\7.5\\com.example.hangmannewgame.app-main-56:\\drawable-xxhdpi\\trybutton.png"
+    },
+    {
+        "merged": "C:\\Users\\jlobb\\.gradle\\daemon\\7.5\\com.example.hangmannewgame.app-merged_res-54:\\drawable_hol.png.flat",
+        "source": "C:\\Users\\jlobb\\.gradle\\daemon\\7.5\\com.example.hangmannewgame.app-main-56:\\drawable\\hol.png"
+    },
+    {
+        "merged": "C:\\Users\\jlobb\\.gradle\\daemon\\7.5\\com.example.hangmannewgame.app-merged_res-54:\\layout_activity_game.xml.flat",
+        "source": "C:\\Users\\jlobb\\.gradle\\daemon\\7.5\\com.example.hangmannewgame.app-main-56:\\layout\\activity_game.xml"
+    },
+    {
+        "merged": "C:\\Users\\jlobb\\.gradle\\daemon\\7.5\\com.example.hangmannewgame.app-merged_res-54:\\drawable-xxhdpi_hangman7.png.flat",
+        "source": "C:\\Users\\jlobb\\.gradle\\daemon\\7.5\\com.example.hangmannewgame.app-main-56:\\drawable-xxhdpi\\hangman7.png"
+    },
+    {
+        "merged": "C:\\Users\\jlobb\\.gradle\\daemon\\7.5\\com.example.hangmannewgame.app-merged_res-54:\\raw_yehawsound.mp3.flat",
+        "source": "C:\\Users\\jlobb\\.gradle\\daemon\\7.5\\com.example.hangmannewgame.app-main-56:\\raw\\yehawsound.mp3"
+    },
+    {
+        "merged": "C:\\Users\\jlobb\\.gradle\\daemon\\7.5\\com.example.hangmannewgame.app-merged_res-54:\\drawable_splashscreen.png.flat",
+        "source": "C:\\Users\\jlobb\\.gradle\\daemon\\7.5\\com.example.hangmannewgame.app-main-56:\\drawable\\splashscreen.png"
+    },
+    {
+        "merged": "C:\\Users\\jlobb\\.gradle\\daemon\\7.5\\com.example.hangmannewgame.app-merged_res-54:\\layout_activity_ranking.xml.flat",
+        "source": "C:\\Users\\jlobb\\.gradle\\daemon\\7.5\\com.example.hangmannewgame.app-main-56:\\layout\\activity_ranking.xml"
+    },
+    {
+        "merged": "C:\\Users\\jlobb\\.gradle\\daemon\\7.5\\com.example.hangmannewgame.app-merged_res-54:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\jlobb\\.gradle\\daemon\\7.5\\com.example.hangmannewgame.app-main-56:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\jlobb\\.gradle\\daemon\\7.5\\com.example.hangmannewgame.app-merged_res-54:\\raw_salondoorfort.mp3.flat",
+        "source": "C:\\Users\\jlobb\\.gradle\\daemon\\7.5\\com.example.hangmannewgame.app-main-56:\\raw\\salondoorfort.mp3"
+    },
+    {
+        "merged": "C:\\Users\\jlobb\\.gradle\\daemon\\7.5\\com.example.hangmannewgame.app-merged_res-54:\\drawable_logout.png.flat",
+        "source": "C:\\Users\\jlobb\\.gradle\\daemon\\7.5\\com.example.hangmannewgame.app-main-56:\\drawable\\logout.png"
+    },
+    {
+        "merged": "C:\\Users\\jlobb\\.gradle\\daemon\\7.5\\com.example.hangmannewgame.app-merged_res-54:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\jlobb\\.gradle\\daemon\\7.5\\com.example.hangmannewgame.app-main-56:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\jlobb\\.gradle\\daemon\\7.5\\com.example.hangmannewgame.app-merged_res-54:\\drawable-xxhdpi_rankinghome.png.flat",
+        "source": "C:\\Users\\jlobb\\.gradle\\daemon\\7.5\\com.example.hangmannewgame.app-main-56:\\drawable-xxhdpi\\rankinghome.png"
+    },
+    {
+        "merged": "C:\\Users\\jlobb\\.gradle\\daemon\\7.5\\com.example.hangmannewgame.app-merged_res-54:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\jlobb\\.gradle\\daemon\\7.5\\com.example.hangmannewgame.app-main-56:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\jlobb\\.gradle\\daemon\\7.5\\com.example.hangmannewgame.app-merged_res-54:\\drawable-xxhdpi_ic_action_name.png.flat",
+        "source": "C:\\Users\\jlobb\\.gradle\\daemon\\7.5\\com.example.hangmannewgame.app-main-56:\\drawable-xxhdpi\\ic_action_name.png"
+    },
+    {
+        "merged": "C:\\Users\\jlobb\\.gradle\\daemon\\7.5\\com.example.hangmannewgame.app-merged_res-54:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\jlobb\\.gradle\\daemon\\7.5\\com.example.hangmannewgame.app-main-56:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\jlobb\\.gradle\\daemon\\7.5\\com.example.hangmannewgame.app-merged_res-54:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\jlobb\\.gradle\\daemon\\7.5\\com.example.hangmannewgame.app-main-56:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\jlobb\\.gradle\\daemon\\7.5\\com.example.hangmannewgame.app-merged_res-54:\\drawable_login.png.flat",
+        "source": "C:\\Users\\jlobb\\.gradle\\daemon\\7.5\\com.example.hangmannewgame.app-main-56:\\drawable\\login.png"
+    },
+    {
+        "merged": "C:\\Users\\jlobb\\.gradle\\daemon\\7.5\\com.example.hangmannewgame.app-merged_res-54:\\drawable-xxhdpi_registrationbox.png.flat",
+        "source": "C:\\Users\\jlobb\\.gradle\\daemon\\7.5\\com.example.hangmannewgame.app-main-56:\\drawable-xxhdpi\\registrationbox.png"
+    },
+    {
+        "merged": "C:\\Users\\jlobb\\.gradle\\daemon\\7.5\\com.example.hangmannewgame.app-merged_res-54:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\jlobb\\.gradle\\daemon\\7.5\\com.example.hangmannewgame.app-main-56:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\jlobb\\.gradle\\daemon\\7.5\\com.example.hangmannewgame.app-merged_res-54:\\layout_activity_options.xml.flat",
+        "source": "C:\\Users\\jlobb\\.gradle\\daemon\\7.5\\com.example.hangmannewgame.app-main-56:\\layout\\activity_options.xml"
+    },
+    {
+        "merged": "C:\\Users\\jlobb\\.gradle\\daemon\\7.5\\com.example.hangmannewgame.app-merged_res-54:\\drawable-xxhdpi_hangman6.png.flat",
+        "source": "C:\\Users\\jlobb\\.gradle\\daemon\\7.5\\com.example.hangmannewgame.app-main-56:\\drawable-xxhdpi\\hangman6.png"
+    },
+    {
+        "merged": "C:\\Users\\jlobb\\.gradle\\daemon\\7.5\\com.example.hangmannewgame.app-merged_res-54:\\drawable-xhdpi_ic_action_name.png.flat",
+        "source": "C:\\Users\\jlobb\\.gradle\\daemon\\7.5\\com.example.hangmannewgame.app-main-56:\\drawable-xhdpi\\ic_action_name.png"
+    },
+    {
+        "merged": "C:\\Users\\jlobb\\.gradle\\daemon\\7.5\\com.example.hangmannewgame.app-merged_res-54:\\drawable_splaschreen.xml.flat",
+        "source": "C:\\Users\\jlobb\\.gradle\\daemon\\7.5\\com.example.hangmannewgame.app-main-56:\\drawable\\splaschreen.xml"
+    },
+    {
+        "merged": "C:\\Users\\jlobb\\.gradle\\daemon\\7.5\\com.example.hangmannewgame.app-merged_res-54:\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\jlobb\\.gradle\\daemon\\7.5\\com.example.hangmannewgame.app-main-56:\\drawable-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.example.hangmannewgame.app-merged_res-54:/layout_activity_game.xml.flat",
+        "source": "com.example.hangmannewgame.app-main-56:/layout/activity_game.xml"
+    },
+    {
+        "merged": "C:\\Users\\jlobb\\.gradle\\daemon\\7.5\\com.example.hangmannewgame.app-merged_res-54:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\jlobb\\.gradle\\daemon\\7.5\\com.example.hangmannewgame.app-main-56:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\jlobb\\.gradle\\daemon\\7.5\\com.example.hangmannewgame.app-merged_res-54:\\font_cowboy.otf.flat",
+        "source": "C:\\Users\\jlobb\\.gradle\\daemon\\7.5\\com.example.hangmannewgame.app-main-56:\\font\\cowboy.otf"
+    },
+    {
+        "merged": "C:\\Users\\jlobb\\.gradle\\daemon\\7.5\\com.example.hangmannewgame.app-merged_res-54:\\drawable-xxhdpi_textbox.png.flat",
+        "source": "C:\\Users\\jlobb\\.gradle\\daemon\\7.5\\com.example.hangmannewgame.app-main-56:\\drawable-xxhdpi\\textbox.png"
+    },
+    {
+        "merged": "C:\\Users\\jlobb\\.gradle\\daemon\\7.5\\com.example.hangmannewgame.app-merged_res-54:\\mipmap-anydpi-v33_ic_launcher.xml.flat",
+        "source": "C:\\Users\\jlobb\\.gradle\\daemon\\7.5\\com.example.hangmannewgame.app-main-56:\\mipmap-anydpi-v33\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\jlobb\\.gradle\\daemon\\7.5\\com.example.hangmannewgame.app-merged_res-54:\\drawable-xxhdpi_back.png.flat",
+        "source": "C:\\Users\\jlobb\\.gradle\\daemon\\7.5\\com.example.hangmannewgame.app-main-56:\\drawable-xxhdpi\\back.png"
+    },
+    {
+        "merged": "C:\\Users\\jlobb\\.gradle\\daemon\\7.5\\com.example.hangmannewgame.app-merged_res-54:\\drawable-mdpi_ic_action_name.png.flat",
+        "source": "C:\\Users\\jlobb\\.gradle\\daemon\\7.5\\com.example.hangmannewgame.app-main-56:\\drawable-mdpi\\ic_action_name.png"
+    },
+    {
+        "merged": "C:\\Users\\jlobb\\.gradle\\daemon\\7.5\\com.example.hangmannewgame.app-merged_res-54:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\jlobb\\.gradle\\daemon\\7.5\\com.example.hangmannewgame.app-main-56:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\jlobb\\.gradle\\daemon\\7.5\\com.example.hangmannewgame.app-merged_res-54:\\drawable-xxhdpi_playbutton.png.flat",
+        "source": "C:\\Users\\jlobb\\.gradle\\daemon\\7.5\\com.example.hangmannewgame.app-main-56:\\drawable-xxhdpi\\playbutton.png"
+    },
+    {
+        "merged": "C:\\Users\\jlobb\\.gradle\\daemon\\7.5\\com.example.hangmannewgame.app-merged_res-54:\\raw_musicagame.mp3.flat",
+        "source": "C:\\Users\\jlobb\\.gradle\\daemon\\7.5\\com.example.hangmannewgame.app-main-56:\\raw\\musicagame.mp3"
+    },
+    {
+        "merged": "C:\\Users\\jlobb\\.gradle\\daemon\\7.5\\com.example.hangmannewgame.app-merged_res-54:\\drawable-xxhdpi_hangman5.png.flat",
+        "source": "C:\\Users\\jlobb\\.gradle\\daemon\\7.5\\com.example.hangmannewgame.app-main-56:\\drawable-xxhdpi\\hangman5.png"
+    },
+    {
+        "merged": "C:\\Users\\jlobb\\.gradle\\daemon\\7.5\\com.example.hangmannewgame.app-merged_res-54:\\layout_activity_register.xml.flat",
+        "source": "C:\\Users\\jlobb\\.gradle\\daemon\\7.5\\com.example.hangmannewgame.app-main-56:\\layout\\activity_register.xml"
+    },
+    {
+        "merged": "C:\\Users\\jlobb\\.gradle\\daemon\\7.5\\com.example.hangmannewgame.app-merged_res-54:\\layout_activity_name_input.xml.flat",
+        "source": "C:\\Users\\jlobb\\.gradle\\daemon\\7.5\\com.example.hangmannewgame.app-main-56:\\layout\\activity_name_input.xml"
+    },
+    {
+        "merged": "C:\\Users\\jlobb\\.gradle\\daemon\\7.5\\com.example.hangmannewgame.app-merged_res-54:\\drawable-xxhdpi_loginregisterscreen.png.flat",
+        "source": "C:\\Users\\jlobb\\.gradle\\daemon\\7.5\\com.example.hangmannewgame.app-main-56:\\drawable-xxhdpi\\loginregisterscreen.png"
+    },
+    {
+        "merged": "C:\\Users\\jlobb\\.gradle\\daemon\\7.5\\com.example.hangmannewgame.app-merged_res-54:\\raw_revolversound.mp3.flat",
+        "source": "C:\\Users\\jlobb\\.gradle\\daemon\\7.5\\com.example.hangmannewgame.app-main-56:\\raw\\revolversound.mp3"
+    },
+    {
+        "merged": "C:\\Users\\jlobb\\.gradle\\daemon\\7.5\\com.example.hangmannewgame.app-merged_res-54:\\drawable-xxhdpi_backbutton.png.flat",
+        "source": "C:\\Users\\jlobb\\.gradle\\daemon\\7.5\\com.example.hangmannewgame.app-main-56:\\drawable-xxhdpi\\backbutton.png"
+    },
+    {
+        "merged": "C:\\Users\\jlobb\\.gradle\\daemon\\7.5\\com.example.hangmannewgame.app-merged_res-54:\\drawable-xxhdpi_tickbox.png.flat",
+        "source": "C:\\Users\\jlobb\\.gradle\\daemon\\7.5\\com.example.hangmannewgame.app-main-56:\\drawable-xxhdpi\\tickbox.png"
+    },
+    {
+        "merged": "C:\\Users\\jlobb\\.gradle\\daemon\\7.5\\com.example.hangmannewgame.app-merged_res-54:\\drawable-xxhdpi_settingscog.png.flat",
+        "source": "C:\\Users\\jlobb\\.gradle\\daemon\\7.5\\com.example.hangmannewgame.app-main-56:\\drawable-xxhdpi\\settingscog.png"
+    },
+    {
+        "merged": "C:\\Users\\jlobb\\.gradle\\daemon\\7.5\\com.example.hangmannewgame.app-merged_res-54:\\drawable-xxhdpi_backdrop.png.flat",
+        "source": "C:\\Users\\jlobb\\.gradle\\daemon\\7.5\\com.example.hangmannewgame.app-main-56:\\drawable-xxhdpi\\backdrop.png"
+    },
+    {
+        "merged": "C:\\Users\\jlobb\\.gradle\\daemon\\7.5\\com.example.hangmannewgame.app-merged_res-54:\\drawable-xxxhdpi_ic_action_name.png.flat",
+        "source": "C:\\Users\\jlobb\\.gradle\\daemon\\7.5\\com.example.hangmannewgame.app-main-56:\\drawable-xxxhdpi\\ic_action_name.png"
+    },
+    {
+        "merged": "C:\\Users\\jlobb\\.gradle\\daemon\\7.5\\com.example.hangmannewgame.app-merged_res-54:\\drawable-xxhdpi_settingscreen.png.flat",
+        "source": "C:\\Users\\jlobb\\.gradle\\daemon\\7.5\\com.example.hangmannewgame.app-main-56:\\drawable-xxhdpi\\settingscreen.png"
+    },
+    {
+        "merged": "C:\\Users\\jlobb\\.gradle\\daemon\\7.5\\com.example.hangmannewgame.app-merged_res-54:\\drawable_homescreen.png.flat",
+        "source": "C:\\Users\\jlobb\\.gradle\\daemon\\7.5\\com.example.hangmannewgame.app-main-56:\\drawable\\homescreen.png"
+    },
+    {
+        "merged": "C:\\Users\\jlobb\\.gradle\\daemon\\7.5\\com.example.hangmannewgame.app-merged_res-54:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\jlobb\\.gradle\\daemon\\7.5\\com.example.hangmannewgame.app-main-56:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\jlobb\\.gradle\\daemon\\7.5\\com.example.hangmannewgame.app-merged_res-54:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\jlobb\\.gradle\\daemon\\7.5\\com.example.hangmannewgame.app-main-56:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\jlobb\\.gradle\\daemon\\7.5\\com.example.hangmannewgame.app-merged_res-54:\\drawable-xxhdpi_hangman2.png.flat",
+        "source": "C:\\Users\\jlobb\\.gradle\\daemon\\7.5\\com.example.hangmannewgame.app-main-56:\\drawable-xxhdpi\\hangman2.png"
+    },
+    {
+        "merged": "C:\\Users\\jlobb\\.gradle\\daemon\\7.5\\com.example.hangmannewgame.app-merged_res-54:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\jlobb\\.gradle\\daemon\\7.5\\com.example.hangmannewgame.app-main-56:\\mipmap-mdpi\\ic_launcher.webp"
+    }
+]

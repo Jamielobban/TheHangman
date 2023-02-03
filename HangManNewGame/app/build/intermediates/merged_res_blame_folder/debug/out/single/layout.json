@@ -1,0 +1,50 @@
+[
+    {
+        "merged": "C:\\Users\\jlobb\\.gradle\\daemon\\7.5\\com.example.hangmannewgame.app-mergeDebugResources-53:\\layout\\activity_ranking.xml",
+        "source": "C:\\Users\\jlobb\\.gradle\\daemon\\7.5\\com.example.hangmannewgame.app-main-56:\\layout\\activity_ranking.xml"
+    },
+    {
+        "merged": "C:\\Users\\jlobb\\.gradle\\daemon\\7.5\\com.example.hangmannewgame.app-mergeDebugResources-53:\\layout\\activity_name_input.xml",
+        "source": "C:\\Users\\jlobb\\.gradle\\daemon\\7.5\\com.example.hangmannewgame.app-main-56:\\layout\\activity_name_input.xml"
+    },
+    {
+        "merged": "C:\\Users\\jlobb\\.gradle\\daemon\\7.5\\com.example.hangmannewgame.app-mergeDebugResources-53:\\layout\\activity_reward.xml",
+        "source": "C:\\Users\\jlobb\\.gradle\\daemon\\7.5\\com.example.hangmannewgame.app-main-56:\\layout\\activity_reward.xml"
+    },
+    {
+        "merged": "com.example.hangmannewgame.app-mergeDebugResources-53:/layout/activity_main.xml",
+        "source": "com.example.hangmannewgame.app-main-56:/layout/activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\jlobb\\.gradle\\daemon\\7.5\\com.example.hangmannewgame.app-mergeDebugResources-53:\\layout\\activity_options.xml",
+        "source": "C:\\Users\\jlobb\\.gradle\\daemon\\7.5\\com.example.hangmannewgame.app-main-56:\\layout\\activity_options.xml"
+    },
+    {
+        "merged": "C:\\Users\\jlobb\\.gradle\\daemon\\7.5\\com.example.hangmannewgame.app-mergeDebugResources-53:\\layout\\activity_register.xml",
+        "source": "C:\\Users\\jlobb\\.gradle\\daemon\\7.5\\com.example.hangmannewgame.app-main-56:\\layout\\activity_register.xml"
+    },
+    {
+        "merged": "C:\\Users\\jlobb\\.gradle\\daemon\\7.5\\com.example.hangmannewgame.app-mergeDebugResources-53:\\layout\\activity_main.xml",
+        "source": "C:\\Users\\jlobb\\.gradle\\daemon\\7.5\\com.example.hangmannewgame.app-main-56:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "com.example.hangmannewgame.app-mergeDebugResources-53:/layout/activity_game.xml",
+        "source": "com.example.hangmannewgame.app-main-56:/layout/activity_game.xml"
+    },
+    {
+        "merged": "C:\\Users\\jlobb\\.gradle\\daemon\\7.5\\com.example.hangmannewgame.app-mergeDebugResources-53:\\layout\\activity_game.xml",
+        "source": "C:\\Users\\jlobb\\.gradle\\daemon\\7.5\\com.example.hangmannewgame.app-main-56:\\layout\\activity_game.xml"
+    },
+    {
+        "merged": "C:\\Users\\jlobb\\.gradle\\daemon\\7.5\\com.example.hangmannewgame.app-mergeDebugResources-53:\\layout\\activity_login.xml",
+        "source": "C:\\Users\\jlobb\\.gradle\\daemon\\7.5\\com.example.hangmannewgame.app-main-56:\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\jlobb\\.gradle\\daemon\\7.5\\com.example.hangmannewgame.app-mergeDebugResources-53:\\layout\\user_item.xml",
+        "source": "C:\\Users\\jlobb\\.gradle\\daemon\\7.5\\com.example.hangmannewgame.app-main-56:\\layout\\user_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\jlobb\\.gradle\\daemon\\7.5\\com.example.hangmannewgame.app-mergeDebugResources-53:\\layout\\activity_splash_screen.xml",
+        "source": "C:\\Users\\jlobb\\.gradle\\daemon\\7.5\\com.example.hangmannewgame.app-main-56:\\layout\\activity_splash_screen.xml"
+    }
+]

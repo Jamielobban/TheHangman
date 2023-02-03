@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">688425797387-pc8074jc5u2po359l4on69bkkrped1c1.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">688425797387</string>
+    <string name="google_api_key" translatable="false">AIzaSyBM8CfckqofIRwjhs2rAW6z7SSqBHfuHgg</string>
+    <string name="google_app_id" translatable="false">1:688425797387:android:3462d882305d130850440e</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyBM8CfckqofIRwjhs2rAW6z7SSqBHfuHgg</string>
+    <string name="google_storage_bucket" translatable="false">hangmannewgame.appspot.com</string>
+    <string name="project_id" translatable="false">hangmannewgame</string>
+</resources>
